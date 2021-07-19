@@ -5,13 +5,14 @@
 
 ![DV.png](./DV.png)
 
+<img src="./1a.gif" alt="react-native" width="30%" height="40%" align="right">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austunkol&show_icons=true&theme=onedark)<br> 
 
 <p align="left">
 <p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austunkol&theme=onedark" alt="languages" width="50%" > </p>
 
-<img src="./1a.gif" alt="react-native" width="30%" height="40%" align="right">
+
 
 <br>
 <br>
