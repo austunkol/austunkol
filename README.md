@@ -48,6 +48,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: alibekirustunkol@gmail.com
 
 
+# ✨ Certificates ✨ 
+
+✨  [AWS Cloud Guru](https://verify.acloud.guru/065F051B7491?_ga=2.205771667.1253920942.1626559960-309723212.1623453714)
+
+✨  [AWS Yaml Essentials](https://verify.acloud.guru/A7ED19420F19?_ga=2.206844051.1253920942.1626559960-309723212.1623453714)
+
+✨ [Udemy](https://www.udemy.com/certificate/UC-b337cdea-5d6d-4f11-939f-08b37073301d/)
+
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
