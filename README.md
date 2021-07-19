@@ -3,7 +3,7 @@
 
 # <h2>`DevOps Engineer`</h2>
 
-![DV.png](./DV.png)
+![DEVOPS.gif](./DEVOPS.gif)
 
 <img src="./1a.gif" alt="react-native" width="30%" height="40%" align="right">
 
